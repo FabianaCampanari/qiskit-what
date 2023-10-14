@@ -1,6 +1,8 @@
 <br>
 
-# <p align="center"> ⚛︎ Qiskit Open-Source Software Development(SDK) to write quantum programs and run on quantum computers<br>
+# <p align="center"> ⚛︎ Qiskit Open-Source Software Development(SDK)<br></br>
+
+### <p align="center"> writing quantum programs and running on quantum computers simulators <br>
 
 
 
