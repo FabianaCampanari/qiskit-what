@@ -27,17 +27,19 @@ Yes, Qiskit can be used for quantum simulation. In fact, one of the main purpose
 
 To get started with Qiskit, you can follow these steps:
 
-- _Install Python:
+- Install Python:
   Qiskit is a Python library, so you'll need to have Python installed on your computer. You can [download Python](https://www.python.org/downloads/) 
   from the official website and follow the installation instructions.
 
-- _Install Qiskit:
+- Install Qiskit:
  Once you have Python installed, you can install Quiskit using the pip package manager. Open your command prompt or terminal and run the following 
  command:
 
-    pip install qiskit
+      pip install qiskit
 
-Learn the basics: Quiskit provides extensive documentation and tutorials to help you get started. You can visit the official Qiskit documentation website () to access the tutorials, examples, and API reference.
+- Learn the basics:
+  Quiskit provides extensive documentation and tutorials to help you get started. You can visit the official Qiskit documentation website () to
+  access the tutorials, examples, and API reference.
 
 Explore the examples: Qiskit comes with a collection of Jupyter notebooks that demonstrate various quantum computing concepts and algorithms. You can find these examples in the qiskit-tutorials repository on GitHub (). Clone or download the repository and open the notebooks using Jupyter Notebook or JupyterLab.
 
