@@ -2,10 +2,10 @@
 
 # <p align="center"> ⚛︎ Quiskit<br>
 
-### Quiskit, open-source software development kit (SDK) used to write quantum programs and run them on quantum computers.<br>
+### Qiskit, open-source software development kit (SDK) used to write quantum programs and run them on quantum computers.<br>
 
 
-## 1. How does Quiskit work?<br>
+## 1. How does Qiskit work?<br>
 
 
 Quiskit is an open-source software development kit (SDK) for working with quantum computers. It allows users to create and run quantum programs on a variety of quantum devices, as well as simulate quantum circuits on classical computers.
@@ -18,24 +18,25 @@ Overall, Quiskit provides a powerful and flexible platform for working with quan
 
 <br>
 
-## 2. Can Quiskit be used for quantum simulation?
+## 2. Can Qiskit be used for quantum simulation?
 
 Yes, Quiskit can be used for quantum simulation. In fact, one of the main purposes of Quiskit is to provide a platform for simulating and executing quantum circuits on different backends. Quiskit allows users to simulate quantum circuits on classical computers using different simulation methods, including statevector, density matrix, and Monte Carlo simulations. Additionally, Quiskit can interface with external simulators such as Qiskit Aer and IBM's Quantum Experience.
 
 <br>
 
-## 3. How can I get started with Quiskit?
+## 3. How can I get started with Qiskit?
 
 To get started with Quiskit, you can follow these steps:
 
-Install Python: Quiskit is a Python library, so you'll need to have Python installed on your computer. You can download Python from the official website () and follow the installation instructions.
+Install Python: Qiskit is a Python library, so you'll need to have Python installed on your computer. You can download Python from the official website () and follow the installation instructions.
 
-Install Quiskit: 
+Install Qiskit: 
 
 Once you have Python installed, you can install Quiskit using the pip package manager. Open your command prompt or terminal and run the following command:
 
-Copy
+
 pip install qiskit
+
 Learn the basics: Quiskit provides extensive documentation and tutorials to help you get started. You can visit the official Quiskit documentation website () to access the tutorials, examples, and API reference.
 
 Explore the examples: Quiskit comes with a collection of Jupyter notebooks that demonstrate various quantum computing concepts and algorithms. You can find these examples in the qiskit-tutorials repository on GitHub (). Clone or download the repository and open the notebooks using Jupyter Notebook or JupyterLab.
@@ -58,11 +59,11 @@ Explore the examples: Quiskit comes with a collection of Jupyter notebooks that 
      print(quasi_dist)
      
 
-Join the community: Quiskit has a vibrant community of users and developers who are always willing to help. You can join the official Quiskit Slack channel () to ask questions, share ideas, and collaborate with others.
+Join the community: Qiskit has a vibrant community of users and developers who are always willing to help. You can join the official Qiskit Slack channel () to ask questions, share ideas, and collaborate with others.
 
 Remember, quantum computing is a complex field, so it's recommended to have some familiarity with linear algebra and basic quantum mechanics concepts. However, Quiskit provides a user-friendly interface that allows beginners to start exploring quantum computing without deep theoretical knowledge.
 
-😎 Happy coding with Quiskit! 
+😎 Happy coding with Qiskit! 
 
 
 
