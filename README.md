@@ -1,12 +1,13 @@
 
 <br>
 
-# Quiskit
+# <p align="center"> ⚛︎ Quiskit
+<br>
 
-### ⚛︎ Quiskit, open-source software development kit (SDK) used to write quantum programs and run them on quantum computers.
+### Quiskit, open-source software development kit (SDK) used to write quantum programs and run them on quantum computers.
+<br>
 
 ## 1. How does Quiskit work?
-
 <br>
 
 Quiskit is an open-source software development kit (SDK) for working with quantum computers. It allows users to create and run quantum programs on a variety of quantum devices, as well as simulate quantum circuits on classical computers.
