@@ -33,9 +33,9 @@ To get started with Qiskit, you can follow these steps:
 
 - Install Qiskit:
  Once you have Python installed, you can install Quiskit using the pip package manager. Open your command prompt or terminal and run the following 
- command:
+ command:<br>
 
-      pip install qiskit
+      pip install qiskit<br>
 
 - Learn the basics:
   Quiskit provides extensive documentation and tutorials to help you get started. You can visit the official 
