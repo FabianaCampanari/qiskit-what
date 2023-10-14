@@ -36,7 +36,7 @@ Install Quiskit: Once you have Python installed, you can install Quiskit using t
 
     pip install qiskit
     
-Learn the basics: Quiskit provides extensive documentation and tutorials to help you get started. You can visit the official Quiskit documentation website () to access the tutorials, examples, and API reference.
+Learn the basics: Quiskit provides extensive documentation and tutorials to help you get started. You can visit the official [qiskit](https://qiskit.org/) documentation website to access the tutorials, examples, and API reference.
 
 Explore the examples: Quiskit comes with a collection of Jupyter notebooks that demonstrate various quantum computing concepts and algorithms. You can find these examples in the qiskit-tutorials repository on GitHub (). Clone or download the repository and open the notebooks using Jupyter Notebook or JupyterLab.
 
