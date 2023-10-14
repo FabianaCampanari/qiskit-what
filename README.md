@@ -49,12 +49,12 @@ To get started with Qiskit, you can follow these steps:
 Explore the examples: Qiskit comes with a collection of Jupyter notebooks that demonstrate various quantum computing concepts and algorithms. You can find these examples in the qiskit-tutorials repository on GitHub (). Clone or download the repository and open the notebooks using Jupyter Notebook or JupyterLab.
 
 
-     # Build a circuit
-     from qiskit import QuantumCircuit
-     circuit = QuantumCircuit(2, 2)
-     circuit.h(0)
-     circuit.cx(0,1)
-     circuit.measure([0,1], [0,1])
+      # Build a circuit
+        from qiskit import QuantumCircuit
+        circuit = QuantumCircuit(2, 2)
+        circuit.h(0)
+        circuit.cx(0,1)
+        circuit.measure([0,1], [0,1])
  
      # Connect to your quantum provider
      from <quantum provider> import Sampler
