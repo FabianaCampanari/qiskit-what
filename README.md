@@ -2,9 +2,9 @@
 
 # <p align="center"> ⚛︎ Qiskit Open-Source Software Development(SDK)
 
-### <p align="center"> writing quantum programs and running on quantum computers simulators <br>
+### <p align="center"> writing quantum programs and running on quantum computers simulators<br>
 
-
+<br>
 
 ## 1. How does Quiskit work?<br>
 
