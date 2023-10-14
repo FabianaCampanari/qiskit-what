@@ -7,7 +7,6 @@
 
 ## 1. How does Qiskit work?<br>
 
-
 Qiskit is an open-source software development kit (SDK) for working with quantum computers. It allows users to create and run quantum programs on a variety of quantum devices, as well as simulate quantum circuits on classical computers.
 
 Qiskit is built using Python and includes a variety of tools for creating and manipulating quantum circuits, as well as tools for optimizing and compiling quantum programs. It also includes support for running programs on a variety of backends, including IBM's cloud-based quantum computers.
