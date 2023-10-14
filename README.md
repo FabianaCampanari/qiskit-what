@@ -1,8 +1,7 @@
 <br>
 
-# <p align="center"> ⚛︎ Quiskit<br>
+# <p align="center"> ⚛︎ Qiskit Open-Xource Software Development(SDK) to write quantum programs and run on quantum computers<br>
 
-### Quiskit, open-source software development kit (SDK) used to write quantum programs and run them on quantum computers.<br>
 
 
 ## 1. How does Quiskit work?<br>
