@@ -58,9 +58,9 @@ To get started with Qiskit, you can follow these steps:
         circuit.cx(0,1)
         circuit.measure([0,1], [0,1])
  
-     # Connect to your quantum provider
-     from <quantum provider> import Sampler
-     sampler = Sampler()
+      # Connect to your quantum provider
+       from <quantum provider> import Sampler
+       sampler = Sampler()
  
      # Run the circuit and get the result
      job = sampler.run(circuit)
