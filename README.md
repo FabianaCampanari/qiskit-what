@@ -1,6 +1,6 @@
 <br>
 
-# <p align="center"> 🌐 Qiskit, Let's Start
+# <p align="center"> 🌐 Qiskit, Let's Get Start
 
 ### Qiskit, open-source software development kit (SDK) used to write quantum programs and run them on quantum computers.<br>
 
