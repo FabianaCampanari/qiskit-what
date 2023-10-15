@@ -46,7 +46,9 @@ To get started with Qiskit, you can follow these steps:
   [Qiskit documentation](https://qiskit.org/documentation/contributing_to_qiskit.html#install-install-from-source-label) website to
   access the tutorials, examples, and API reference.
 
-Explore the examples: Qiskit comes with a collection of Jupyter notebooks that demonstrate various quantum computing concepts and algorithms. You can find these examples in the qiskit-tutorials repository on GitHub (). Clone or download the repository and open the notebooks using Jupyter Notebook or JupyterLab.
+ - Explore the examples:
+   Qiskit comes with a collection of Jupyter notebooks that demonstrate various quantum computing concepts and algorithms. You can find these examples in 
+   the qiskit-tutorials repository on GitHub (). Clone or download the repository and open the notebooks using Jupyter Notebook or JupyterLab.
 
 
       # Build a circuit
