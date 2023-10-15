@@ -112,3 +112,5 @@ concerned with a fellow IBMer's behavior should follow IBM's own internal HR
 reporting protocols, which include engaging the offending IBMer's manager and
 involving IBM Concerns and Appeals. IBM employees concerned with an IBM
 business partner's behavior should notify tellibm@us.ibm.com.
+
+
